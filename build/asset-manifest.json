@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CoalitionSkillTest/static/css/main.e1234ed7.css",
+    "main.js": "/CoalitionSkillTest/static/js/main.9dc6a0d9.js",
+    "static/media/bg1.jpg": "/CoalitionSkillTest/static/media/bg1.f7c7e1d7c8f5b4ee1890.jpg",
+    "static/media/bg3.jpg": "/CoalitionSkillTest/static/media/bg3.e6cf7a5100658bbe3358.jpg",
+    "static/media/bg2.jpg": "/CoalitionSkillTest/static/media/bg2.fa6401f0f810e1877205.jpg",
+    "index.html": "/CoalitionSkillTest/index.html",
+    "main.e1234ed7.css.map": "/CoalitionSkillTest/static/css/main.e1234ed7.css.map",
+    "main.9dc6a0d9.js.map": "/CoalitionSkillTest/static/js/main.9dc6a0d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1234ed7.css",
+    "static/js/main.9dc6a0d9.js"
+  ]
+}
