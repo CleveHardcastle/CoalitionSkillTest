@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/coalitionskilltest/static/css/main.e1234ed7.css",
+    "main.js": "/coalitionskilltest/static/js/main.16a13fa9.js",
+    "static/media/bg1.jpg": "/coalitionskilltest/static/media/bg1.f7c7e1d7c8f5b4ee1890.jpg",
+    "static/media/bg3.jpg": "/coalitionskilltest/static/media/bg3.e6cf7a5100658bbe3358.jpg",
+    "static/media/bg2.jpg": "/coalitionskilltest/static/media/bg2.fa6401f0f810e1877205.jpg",
+    "index.html": "/coalitionskilltest/index.html",
+    "main.e1234ed7.css.map": "/coalitionskilltest/static/css/main.e1234ed7.css.map",
+    "main.16a13fa9.js.map": "/coalitionskilltest/static/js/main.16a13fa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1234ed7.css",
+    "static/js/main.16a13fa9.js"
+  ]
+}
