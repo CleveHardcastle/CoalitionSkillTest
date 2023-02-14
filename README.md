@@ -8,4 +8,4 @@ A fully functional react app with tailwind for the styling of the page
 
 ## Deployed Site
 
-You can find the site here: 
+You can find the site here: https://coalition-skill-test.vercel.app/
